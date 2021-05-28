@@ -1,3 +1,5 @@
-ddpg/*
+ddpg/
 .vscode/
 */__pycache__/
+.pytest*
+*.egg-info
