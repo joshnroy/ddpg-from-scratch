@@ -1,6 +1,0 @@
-README.md
-setup.py
-ddpkg_from_scratch.egg-info/PKG-INFO
-ddpkg_from_scratch.egg-info/SOURCES.txt
-ddpkg_from_scratch.egg-info/dependency_links.txt
-ddpkg_from_scratch.egg-info/top_level.txt
